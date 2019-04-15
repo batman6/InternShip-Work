@@ -1,0 +1,119 @@
+/* You can add global styles to this file, and also import other style files */
+
+#mynetwork {
+  background-color: white;
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  right: 10px;
+  height: 90%;
+  width: 98.5%;
+}
+
+body {
+  margin: 0px;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background: #dfe6e9;
+}
+
+button {
+  padding: 10px 37.5px 10px 37.5px;
+  border: 1px;
+  background: rgba(4, 169, 245, 0.993);
+  border-radius:10px;
+  position: relative;
+  margin-top: 46%;
+  bottom: 10px;
+}
+
+textarea{
+  margin-top: 0%;
+  width: 98.5%;
+  height: 500px;
+  background-color:black;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+  color: greenyellow;
+  box-sizing: border-box;
+}
+
+/*
+.split {
+  height: 50%;
+  width: 50%;
+  position: absolute;
+  z-index: 1;
+  top: 200;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+  background-color: white;
+  width: 700px;
+  height: 500px;
+  border-radius: 9px;
+  margin-left: 10px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.right {
+  right: 0;
+  background-color:black;
+  width: 700px;
+  height: 500px;
+  border-radius: 9px;
+  margin-right: 10px;
+  box-shadow: -10px 10px 5px #aaaaaa;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+textarea{
+  width: 700px;
+  height: 500px;
+  background-color:black;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+  color: greenyellow;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 37.5px 10px 37.5px;
+  border: 1px;
+  background: rgba(4, 169, 245, 0.993);
+  border-radius:10px;
+  position: relative;
+  margin-top: 550px;
+}
+
+.vis-network {
+  overflow:visible;
+}
+
+@media only screen and (max-width: 1295px) {
+  .right {
+    background-color:black;
+    width: 700px;
+    height: 500px;
+    border-radius: 9px;
+    left: 10px;
+    top: 700px;
+    box-shadow: -10px 10px 5px #aaaaaa;
+    margin-bottom: 10px;
+  }
+  button {
+    padding: 10px 37.5px 10px 37.5px;
+    border: 1px;
+    background: rgba(4, 169, 245, 0.993);
+    border-radius:10px;
+    position: relative;
+    top: 0px;
+  }
+}
+*/
